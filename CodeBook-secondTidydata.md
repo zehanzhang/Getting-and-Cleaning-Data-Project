@@ -14,83 +14,200 @@ tBodyAcc-mean()-X
 &#160; &#160; &#160; &#160;Mean value of tBodyAcc-X  
 
 tBodyAcc-mean()-Y  
-  Mean value of tBodyAcc-Y  
+&#160; &#160; &#160; &#160;Mean value of tBodyAcc-Y  
   
 tBodyAcc-mean()-Z  
-  Mean value of tBodyAcc-Z  
+&#160; &#160; &#160; &#160;Mean value of tBodyAcc-Z  
   
 tBodyAcc-std()-X  
-  Standard deviation of tBodyAcc-std()-X  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyAcc-std()-X  
   
 tBodyAcc-std()-Y  
-  Standard deviation of tBodyAcc-std()-Y    
+&#160; &#160; &#160; &#160;Standard deviation of tBodyAcc-std()-Y    
   
 tBodyAcc-std()-Z  
-  Standard deviation of tBodyAcc-std()-Z
+&#160; &#160; &#160; &#160;Standard deviation of tBodyAcc-std()-Z
 
 tGravityAcc-mean()-X  
-  Mean value of tGravityAcc-X    
+&#160; &#160; &#160; &#160;Mean value of tGravityAcc-X    
 
 tGravityAcc-mean()-Y  
-  Mean value of tGravityAcc-Y  
+&#160; &#160; &#160; &#160;Mean value of tGravityAcc-Y  
   
 tGravityAcc-mean()-Z  
-  Mean value of tGravityAcc-Z  
+&#160; &#160; &#160; &#160;Mean value of tGravityAcc-Z  
   
-44 tGravityAcc-std()-X
-45 tGravityAcc-std()-Y
-46 tGravityAcc-std()-Z
-81 tBodyAccJerk-mean()-X
-82 tBodyAccJerk-mean()-Y
-83 tBodyAccJerk-mean()-Z
-84 tBodyAccJerk-std()-X
-85 tBodyAccJerk-std()-Y
-86 tBodyAccJerk-std()-Z
-121 tBodyGyro-mean()-X
-122 tBodyGyro-mean()-Y
-123 tBodyGyro-mean()-Z
-124 tBodyGyro-std()-X
-125 tBodyGyro-std()-Y
-126 tBodyGyro-std()-Z
-161 tBodyGyroJerk-mean()-X
-162 tBodyGyroJerk-mean()-Y
-163 tBodyGyroJerk-mean()-Z
-164 tBodyGyroJerk-std()-X
-165 tBodyGyroJerk-std()-Y
-166 tBodyGyroJerk-std()-Z
-201 tBodyAccMag-mean()
-202 tBodyAccMag-std()
-214 tGravityAccMag-mean()
-215 tGravityAccMag-std()
-227 tBodyAccJerkMag-mean()
-228 tBodyAccJerkMag-std()
-240 tBodyGyroMag-mean()
-241 tBodyGyroMag-std()
-253 tBodyGyroJerkMag-mean()
-254 tBodyGyroJerkMag-std()
-266 fBodyAcc-mean()-X
-267 fBodyAcc-mean()-Y
-268 fBodyAcc-mean()-Z
-269 fBodyAcc-std()-X
-270 fBodyAcc-std()-Y
-271 fBodyAcc-std()-Z
-345 fBodyAccJerk-mean()-X
-346 fBodyAccJerk-mean()-Y
-347 fBodyAccJerk-mean()-Z
-348 fBodyAccJerk-std()-X
-349 fBodyAccJerk-std()-Y
-350 fBodyAccJerk-std()-Z
-424 fBodyGyro-mean()-X
-425 fBodyGyro-mean()-Y
-426 fBodyGyro-mean()-Z
-427 fBodyGyro-std()-X
-428 fBodyGyro-std()-Y
-429 fBodyGyro-std()-Z
-503 fBodyAccMag-mean()
-504 fBodyAccMag-std()
-516 fBodyBodyAccJerkMag-mean()
-517 fBodyBodyAccJerkMag-std()
-529 fBodyBodyGyroMag-mean()
-530 fBodyBodyGyroMag-std()
-542 fBodyBodyGyroJerkMag-mean()
-543 fBodyBodyGyroJerkMag-std()
+tGravityAcc-std()-X  
+&#160; &#160; &#160; &#160;Standard deviation of tGravityAcc-X  
+
+tGravityAcc-std()-Y  
+&#160; &#160; &#160; &#160;Standard deviation of tGravityAcc-Y  
+
+tGravityAcc-std()-Z  
+&#160; &#160; &#160; &#160;Standard deviation of tGravityAcc-Z  
+
+tBodyAccJerk-mean()-X  
+&#160; &#160; &#160; &#160;Mean value of tBodyAccJerk-X  
+
+tBodyAccJerk-mean()-Y  
+&#160; &#160; &#160; &#160;Mean value of tBodyAccJerk-Y  
+
+tBodyAccJerk-mean()-Z  
+&#160; &#160; &#160; &#160;Mean value of tBodyAccJerk-Z  
+
+tBodyAccJerk-std()-X  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyAccJerk-X  
+
+tBodyAccJerk-std()-Y  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyAccJerk-Y  
+
+tBodyAccJerk-std()-Z  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyAccJerk-Z  
+
+tBodyGyro-mean()-X  
+&#160; &#160; &#160; &#160;Mean value of tBodyGyro-X  
+
+tBodyGyro-mean()-Y  
+&#160; &#160; &#160; &#160;Mean value of tBodyGyro-Y  
+
+tBodyGyro-mean()-Z  
+&#160; &#160; &#160; &#160;Mean value of tBodyGyro-Z  
+
+tBodyGyro-std()-X  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyGyro-X  
+
+tBodyGyro-std()-Y  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyGyro-Y  
+
+tBodyGyro-std()-Z  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyGyro-Z  
+
+tBodyGyroJerk-mean()-X  
+&#160; &#160; &#160; &#160;Mean value of tBodyGyroJerk-X  
+
+tBodyGyroJerk-mean()-Y  
+&#160; &#160; &#160; &#160;Mean value of tBodyGyroJerk-Y  
+
+tBodyGyroJerk-mean()-Z  
+&#160; &#160; &#160; &#160;Mean value of tBodyGyroJerk-Z  
+
+tBodyGyroJerk-std()-X  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyGyroJerk-X  
+
+tBodyGyroJerk-std()-Y  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyGyroJerk-Y  
+
+tBodyGyroJerk-std()-Z  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyGyroJerk-Z  
+
+tBodyAccMag-mean()  
+&#160; &#160; &#160; &#160;Mean value of tBodyAccMag  
+
+tBodyAccMag-std()  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyAccMag  
+
+tGravityAccMag-mean()  
+&#160; &#160; &#160; &#160;Mean value of tGravityAccMag  
+
+tGravityAccMag-std()  
+&#160; &#160; &#160; &#160;Standard deviation of tGravityAccMag  
+
+tBodyAccJerkMag-mean()  
+&#160; &#160; &#160; &#160;Mean value of tBodyAccJerkMag  
+
+tBodyAccJerkMag-std()  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyAccJerkMag  
+
+tBodyGyroMag-mean()  
+&#160; &#160; &#160; &#160;Mean value of tBodyGyroMag  
+
+tBodyGyroMag-std()  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyGyroMag  
+
+tBodyGyroJerkMag-mean()  
+&#160; &#160; &#160; &#160;Mean value of tBodyGyroJerkMag  
+
+tBodyGyroJerkMag-std()  
+&#160; &#160; &#160; &#160;Standard deviation of tBodyGyroJerkMag  
+
+fBodyAcc-mean()-X  
+&#160; &#160; &#160; &#160;Mean value of fBodyAcc-X  
+
+fBodyAcc-mean()-Y  
+&#160; &#160; &#160; &#160;Mean value of fBodyAcc-Y  
+
+fBodyAcc-mean()-Z  
+&#160; &#160; &#160; &#160;Mean value of fBodyAcc-Z  
+
+fBodyAcc-std()-X  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyAcc-X  
+
+fBodyAcc-std()-Y  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyAcc-Y  
+
+fBodyAcc-std()-Z  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyAcc-Z  
+
+fBodyAccJerk-mean()-X  
+&#160; &#160; &#160; &#160;Mean value of fBodyAccJerk-X  
+
+fBodyAccJerk-mean()-Y  
+&#160; &#160; &#160; &#160;Mean value of fBodyAccJerk-Y  
+
+fBodyAccJerk-mean()-Z  
+&#160; &#160; &#160; &#160;Mean value of fBodyAccJerk-Z  
+
+fBodyAccJerk-std()-X  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyAccJerk-X  
+
+fBodyAccJerk-std()-Y  
+&#160; &#160; &#160; &#160;Standard deviation of  fBodyAccJerk-Y  
+
+fBodyAccJerk-std()-Z  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyAccJerk-Z  
+
+fBodyGyro-mean()-X  
+&#160; &#160; &#160; &#160;Mean value of fBodyGyro-X  
+
+fBodyGyro-mean()-Y  
+&#160; &#160; &#160; &#160;Mean value of fBodyGyro-Y  
+
+fBodyGyro-mean()-Z  
+&#160; &#160; &#160; &#160;Mean value of fBodyGyro-Z  
+
+fBodyGyro-std()-X  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyGyro-X  
+
+fBodyGyro-std()-Y  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyGyro-Y  
+
+fBodyGyro-std()-Z  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyGyro-Z  
+
+fBodyAccMag-mean()  
+&#160; &#160; &#160; &#160;Mean value of fBodyAccMag  
+
+fBodyAccMag-std()  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyAccMag  
+
+fBodyBodyAccJerkMag-mean()  
+&#160; &#160; &#160; &#160;Mean value of fBodyBodyAccJerkMag  
+
+fBodyBodyAccJerkMag-std()  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyBodyAccJerkMag  
+
+fBodyBodyGyroMag-mean()  
+&#160; &#160; &#160; &#160;Mean value of fBodyBodyGyroMag  
+
+fBodyBodyGyroMag-std()  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyBodyGyroMag  
+
+fBodyBodyGyroJerkMag-mean()  
+&#160; &#160; &#160; &#160;Mean value of fBodyBodyGyroJerkMag  
+
+fBodyBodyGyroJerkMag-std()  
+&#160; &#160; &#160; &#160;Standard deviation of fBodyBodyGyroJerkMag  
+
+labels  
+&#160; &#160; &#160; &#160;
+
