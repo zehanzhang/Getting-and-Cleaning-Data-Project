@@ -1,4 +1,5 @@
 # Getting-and-Cleaning-Data-Project
+
 This repository includes: 1) a tidy data set named secondTidydata; 
                           2) one R script called run_analysis.R; 
                           3) code book for tidy data.
