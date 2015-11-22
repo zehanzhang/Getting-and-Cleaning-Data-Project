@@ -28,3 +28,6 @@ The step in my run_analysis.R is a little different from the project describes.I
 5. Extracts only the measurements on the mean and standard deviation for each measurement.The columns is described in "Tidy data set".  
 6. From the data set in step 5, creates a second, independent tidy data set with the average of each variable for each activity.  
 7. Writes the data set to text file.
+
+## code book for tidy data.
+The code book describes the variables and the data in detail.
