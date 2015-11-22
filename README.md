@@ -20,7 +20,7 @@ For example:the first 3 columns are the mean for tBodyAcc-XYZ, and 4,5,6 columns
 
 ## R scrip -- run_analysis.R
 
-The step in my run_analysis.R is a little different from the project describes.  
+The step in my run_analysis.R is a little different from the project describes.It does the following.  
 1. Reads feature, training and test data sets into R.  
 2. Appropriately labels the training and test data with variables in y_train and y_test.  
 3. Merges the training and the test sets to create one data set called mergedData.  
