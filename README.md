@@ -14,6 +14,6 @@ Six rows correspond to six activity_labels,and the number of row is the number o
   
 The colums is the mean and standard deviation for all variables(tBodyAcc-XYZ, tGravityAcc-XYZ,   
 tBodyAccJerk-XYZ,   tBodyGyro-XYZ, tBodyGyroJerk-XYZ, tBodyAccMag, tGravityAccMag, tBodyAccJerkMag,  
-tBodyGyroMag, tBodyGyroJerkMag, fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccMag, fBodyAccJerkMag,  
-fBodyGyroMag, fBodyGyroJerkMag).  
+tBodyGyroMag, tBodyGyroJerkMag, fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccMag, 
+fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag).  
 For example:the first 3 columns are the mean for tBodyAcc-XYZ, and 4,5,6 columns are the standard deviation for tBodyAcc-XYZ.
