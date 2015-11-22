@@ -11,15 +11,32 @@ These signals were used to estimate variables of the feature vector for each pat
 
 
 tBodyAcc-mean()-X  
+  Mean value of tBodyAcc-X  
+
+tBodyAcc-mean()-Y  
+  Mean value of tBodyAcc-Y  
   
-2 tBodyAcc-mean()-Y
-3 tBodyAcc-mean()-Z
-4 tBodyAcc-std()-X
-5 tBodyAcc-std()-Y
-6 tBodyAcc-std()-Z
-41 tGravityAcc-mean()-X
-42 tGravityAcc-mean()-Y
-43 tGravityAcc-mean()-Z
+tBodyAcc-mean()-Z  
+  Mean value of tBodyAcc-Z  
+  
+tBodyAcc-std()-X  
+  Standard deviation of tBodyAcc-std()-X  
+  
+tBodyAcc-std()-Y  
+  Standard deviation of tBodyAcc-std()-Y    
+  
+tBodyAcc-std()-Z  
+  Standard deviation of tBodyAcc-std()-Z
+
+tGravityAcc-mean()-X  
+  Mean value of tGravityAcc-X    
+
+tGravityAcc-mean()-Y  
+  Mean value of tGravityAcc-Y  
+  
+tGravityAcc-mean()-Z  
+  Mean value of tGravityAcc-Z  
+  
 44 tGravityAcc-std()-X
 45 tGravityAcc-std()-Y
 46 tGravityAcc-std()-Z
