@@ -43,5 +43,5 @@ s <- split(extractedData, extractedData[, 67])
 secondData <- sapply(s, function(x) colMeans(x[, 1:66], na.rm = TRUE))
 secondTidydata <- data.frame(t(secondData)[,])
 
-## Write created data to text files
+## Write created data to text file
 write.table(secondTidydata, "secondTidydata.txt", row.names = FALSE)
