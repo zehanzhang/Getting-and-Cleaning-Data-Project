@@ -11,7 +11,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 
 tBodyAcc-mean()-X  
-&nbspMean value of tBodyAcc-X  
+&#160;Mean value of tBodyAcc-X  
 
 tBodyAcc-mean()-Y  
   Mean value of tBodyAcc-Y  
